@@ -1,0 +1,18 @@
+# Raw dataset (large file - download from UCI instead)
+bank-full.csv
+
+# Generated output files
+Bank.csv
+*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
